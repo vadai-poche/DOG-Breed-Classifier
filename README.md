@@ -3,6 +3,12 @@
 [image1]: ./images/sample_dog_output.png "Sample Output"
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+[RG]: ./images/Rahulgandhi.png "Rahul gandhi"
+[Kishore]: ./images/Kishore.png "Myself"
+[Trump]: ./images/Trump.png "Trump"
+[Husky]: ./images/Husky.png "Husky"
+[Akita]: ./images/Akita.png "Akita"
+[Dachsund]: ./images/Dachshund.png "Dachshund"
 
 
 ## Project Overview
@@ -101,6 +107,15 @@ jupyter notebook dog_app.ipynb
 12. (Optional) **If you are running the project on your local machine (and not using AWS)**, before running code, change the kernel to match the dog-project environment by using the drop-down menu (**Kernel > Change kernel > dog-project**). Then, follow the instructions in the notebook.
 
 __NOTE:__ While some code has already been implemented to get you started, you will need to implement additional functionality to successfully answer all of the questions included in the notebook. __Unless requested, do not modify code that has already been included.__
+
+## Results of classifier
+
+![Sample Output][RG]
+![Sample Output][Kishore]
+![Sample Output][Trump]
+![Sample Output][Husky]
+![Sample Output][Akita]
+![Sample Output][Dachsund]
 
 ## Blog Post
 https://medium.com/@subramanian.kishore/dog-breed-classifier-b317d0d38b6b
